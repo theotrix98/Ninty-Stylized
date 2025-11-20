@@ -12,9 +12,9 @@ Great question, because the launcher is sure as hell vague about it! In general 
 I'm not the best at explaining things, so forgive me if this reads awkwardly. I'll probably try to revise this to be easier to understand later. Essentially, you want your file structure to look like this, with "themename" being the same for each file:
 
 📂 Folder Holding Your Theme
-   themename.ini (<-- basically the configuration of the theme. see the Ninty-Launcher repo's wiki for more detailed info on this)
-   themename.png (<-- wallpaper)
-   themename.ogg (<-- if you want to include bgm; if not, just don't include this file)
+ themename.ini (<-- basically the configuration of the theme. see the Ninty-Launcher repo's wiki for more detailed info on this)
+ themename.png (<-- wallpaper)
+ themename.ogg (<-- if you want to include bgm; if not, just don't include this file)
 
 # Hang on, where is everything?
 Currently, the complete pack is a work in progress; all background graphics have been created, I just need to create proper .ini files for them and sort them appropriately. Should hopefully be finished within 24 hours. This is also my first attempt at making Ninty themes, so while they *should* work properly as I will do my best to test these myself before adding the files to the repo, please forgive me if I somehow manage to fuck up something. Feel free to tell me what I did stupidly and I will attempt to fix it!
