@@ -7,4 +7,7 @@ If you're just downloading a theme to use rather than making one yourself, it's 
 ...I had to figure this all out from reading their wiki, which details how to *make* a theme but. not how to ... install one? For some reason? ??????
 
 # Hang on, where is everything?
-Currently, the complete pack is a work in progress; all background graphics have been created, I just need to create proper .ini files for them and sort them appropriately. Should hopefully be finished within 24 hours. This is also my first attempt at making Ninty themes, so while they *should* work properly as I will do my best to test these myself before adding the files to the repo, please forgive me if I somehow manage to fuck up something. Feel free to tell me what I did stupidly and I will attempt to fix it!
+Currently, the complete pack is a work in progress; all background graphics have been created, I just need to create proper .ini files for them and sort them appropriately. Should hopefully be finished within 24 hours. Until then, here's a list of functional themes as I make them, updated as I go:
+- Red
+
+Any other theme is currently using the base .ini file template pasted from the Ninty-Launcher repo's wiki, and hasn't been polished yet.
