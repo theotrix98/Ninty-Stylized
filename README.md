@@ -1,13 +1,9 @@
 # Ninty-Stylized
-A pack of themes for ninstar's Ninty Launcher that are intentionally simple but colorful.
+A pack of themes for ninstar's Ninty Launcher that aren't particularly complex, just stylized color themes.
 
 # How do I use Ninty themes?
-If you're just downloading a theme to use rather than making one yourself, it's fairly simple. Ish. Usually they're distributed in archive files you'll have to extract, mostly .rar and .zip from what I've seen. Once you have the files (an .ini, a .png, and, if the theme includes background music, an .ogg, all named the exact same excluding their file extensions) extracted to the same folder, just launch Ninty, select "Change Wallpaper", and choose the .png file that the other file(/s) share a name with, and you should be golden. If you're like me and want to have multiple themes to choose from, the solution I've devised is to just have a subfolder for each theme. Or you could just slap them all in one place unorganized, whatever floats your boat. Personally I like to keep them in my Ninty profile folder for simplicity's sake.
+If you're just downloading a theme to use rather than making one yourself, it's fairly simple. Ish. Usually they're distributed in archive files you'll have to extract, mostly .rar and .zip from what I've seen. Once you have the files (an .ini, a .png, and, if the theme includes background music, an .ogg, all named the exact same excluding their file extensions) extracted to the same folder, just launch Ninty, select "Change Wallpaper", and choose the .png file that the other file(/s) share a name with, and you should be golden. I personally recommend putting each theme's files in a dedicated folder for each theme, but you might not need that if you don't use multiple or if you just don't care enough to bother. Whatever works for you!
 
-...I had to figure this all out from reading their wiki, which details how to *make* a theme but. not how to ... install one? For some reason? ??????
+In the case of these particular themes, just download the latest release (should be 1.0 when I make this repo public) as a zip and choose which theme or themes you want. However you organize your themes, do that. If you couldn't tell, I am piss poor at anything github related, so I'm really sorry if this is like the worst README you've ever witnessed LMAO
 
-# Hang on, where is everything?
-Currently, the complete pack is a work in progress; all background graphics have been created, I just need to create proper .ini files for them and sort them appropriately. Should hopefully be finished within 24 hours. Until then, here's a list of functional themes as I make them, updated as I go:
-- Red
-
-Any other theme is currently using the base .ini file template pasted from the Ninty-Launcher repo's wiki, and hasn't been polished yet.
+_~~...I had to figure all this out from reading their wiki, which details how to **make** a theme but. not how to ... install one? For some reason? maybe I'm just not knowledgeable of how these things work (i am most definitely not. the amount of time ive spent fiddling with github for simple things is embarrassing) but seriously someone should like. add a section to the Ninty Launcher wiki for that. instead of relying on the assumption that people can just infer from the theme making tutorial... i am simply a bit of a loser with too much time on my hands and a tendency to get fixated on things via audhd~~_
